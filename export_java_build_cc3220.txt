@@ -1,0 +1,2 @@
+export XDCTOOLS_JAVA_HOME=$JAVA_HOME
+XDCTOOLS_JAVA_HOME=/usr/lib/jvm/java-7-openjdk-amd64
